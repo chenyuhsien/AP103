@@ -1,0 +1,2 @@
+NSlog(@"Hellow World")
+if (a!=0) {do something};
